@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Katja
-<!---
-kachanea/kachanea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Привет, я Катя 
+
+Ищу новые вызовы в области анализа данных, 
+где смогу применять свои навыки в Python (Pandas, NumPy, Scikit-learn), 
+SQL и визуализации данных (Plotly, Seaborn, Tableau, DataLens).
+
+Интересуюсь BI и продуктовой аналитикой
+
+
