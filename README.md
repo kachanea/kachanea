@@ -14,7 +14,7 @@ SQL и визуализации данных (Plotly, Seaborn, Tableau, DataLens
   </a>
 </div>
   
----
+
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -27,4 +27,4 @@ SQL и визуализации данных (Plotly, Seaborn, Tableau, DataLens
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>  
 
----
+
