@@ -8,7 +8,7 @@ SQL и визуализации данных (Plotly, Seaborn, Tableau, DataLens
 
 ---
 
-Контакты:  
+*Контакты*  
 
 <div id="badges">
   <a href="https://t.me/kachanea">
@@ -16,10 +16,10 @@ SQL и визуализации данных (Plotly, Seaborn, Tableau, DataLens
   </a>
 </div>
   
-
+<br></br>
 
   
-Инструменты:  
+*Инструменты*  
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
