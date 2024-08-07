@@ -17,6 +17,8 @@ SQL и визуализации данных (Plotly, Seaborn, Tableau, DataLens
 </div>
   
 
+
+  
 Инструменты:  
 
 <div>
