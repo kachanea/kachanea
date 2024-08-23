@@ -11,7 +11,7 @@ SQL и визуализации данных (Plotly, Seaborn, Tableau, DataLens
 *Контакты*  
 
 <div id="badges">
-  <a href="https://t.me/kachanea">
+  <a href="https://t.me/kachan_ea">
     <img src=https://avatars.mds.yandex.net/i?id=ee220d96aa96df9eb6c0d046e507ee984a077a34-10868190-images-thumbs&n=13 alt="Telegram" width="40"/>
   </a>
 </div>  
